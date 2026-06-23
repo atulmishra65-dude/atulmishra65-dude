@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Atul Mishra 👋
 
-<!--
-**atulmishra65-dude/atulmishra65-dude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (2022-2026)
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- MySQL
+- Pandas
+- NumPy
+- Matplotlib
+
+## Projects
+### E-Commerce Product Analysis
+Analyzed sales and customer data using Python, SQL, and Excel.
+
+### Privacy-Preserving Customer Churn Prediction
+Built a federated learning based churn prediction system.
+
+## Connect With Me
+LinkedIn: linkedin.com/in/atul-mishra-434031295
+Email: matul6565@gmail.com
